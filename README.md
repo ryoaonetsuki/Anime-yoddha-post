@@ -1,17 +1,15 @@
-# Anime Content Publisher
+# Anime Post Publisher
 
-A lightweight web platform for creating and publishing anime-focused posts with rich media support and responsive UI.
+A lightweight web platform for creating and publishing anime posts with rich media and a responsive UI.
 
 ## Overview
 
-This repository contains the source code and project files for the application.
+A standalone HTML/JS website for composing and publishing anime-focused content. No build system or backend is required.
 
-## Setup
+## Usage
 
-Follow the project configuration and dependency files included in the repository to install and run it locally.
-
-Example command:
+Clone or download the repository and open `index.html` in a browser:
 
 ```bash
-git clone <repository-url>st.git
+git clone https://github.com/ryoaonetsuki/anime-post-publisher.git
 ```
